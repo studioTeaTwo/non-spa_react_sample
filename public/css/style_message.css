@@ -1,0 +1,11 @@
+.message-container {
+  width: 900px; }
+
+.message-title {
+  color: red; }
+
+h1, .message-nav, .message-main {
+  width: 900px; }
+
+.tab {
+  display: inline-block; }
