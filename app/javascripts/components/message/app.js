@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Tab, Row, Col, Nav, NavItem } from 'react-bootstrap';
 
+require('es6-promise').polyfill();
+
 const TAB_TYPE = [
         'world',
         'guild'
